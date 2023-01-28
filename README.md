@@ -17,7 +17,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
 
-This was a very simple and straight forward challenge to practice my layout skills. My confidence with flexbox is improving. I'm also proud of myself for how close I got to the design. Not that I chase absolute perfection, but I like to get as close I can.
+This was a very simple and straight forward challenge to practice my layout skills. My confidence with flexbox is improving. I'm also proud of myself for how close I got to the design. Not that I chase absolute perfection, but I like to get as close I can. I also like the fact that I didn't have to have multiple classes for everything which saved me alot of time. 
 
 ### The challenge
 
